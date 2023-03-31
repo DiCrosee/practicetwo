@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NNjJcZcfYokXcGjorAa4jy4YGQNXSBUT4ydw2NSlgXwQgfE+05fr4ekhLd1KRXIf8rLD9z8DiyVnA17wbqxssA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_vaevl\\Desktop\\practice2\\practice6\\practice6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_vaevl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\bin\Debug\net6.0\practice4.exe
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\bin\Debug\net6.0\practice4.deps.json
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\bin\Debug\net6.0\practice4.runtimeconfig.json
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\bin\Debug\net6.0\practice4.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\bin\Debug\net6.0\practice4.pdb
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.csproj.AssemblyReference.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.AssemblyInfoInputs.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.AssemblyInfo.cs
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.csproj.CoreCompileInputs.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\refint\practice4.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.pdb
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\practice4.genruntimeconfig.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice4\obj\Debug\net6.0\ref\practice4.dll

@@ -1,0 +1,17 @@
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\practice6.exe
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\practice6.deps.json
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\practice6.runtimeconfig.json
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\practice6.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\practice6.pdb
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.csproj.AssemblyReference.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.AssemblyInfoInputs.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.AssemblyInfo.cs
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.csproj.CoreCompileInputs.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.csproj.CopyComplete
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\refint\practice6.dll
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.pdb
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\practice6.genruntimeconfig.cache
+C:\Users\gr612_vaevl\Desktop\practice2\practice6\obj\Debug\net6.0\ref\practice6.dll
